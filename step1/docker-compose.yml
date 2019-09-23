@@ -13,7 +13,7 @@ services:
       MYSQL_PASSWORD: password
       MYSQL_ROOT_PASSWORD: password
   web:
-    image: wordpress:latest
+    build: ./wp
     ports:
       - "8080:80"
     depends_on:
