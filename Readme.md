@@ -1,11 +1,22 @@
-Hackleet fighters
-================
+Hackleet fighters II For WordPress
+====================================
+
+This is a CTF-like security challenges kit which is dedicated to WordPress.
+Each website is built by Docker Compose.
+
+It has the following purposes.
+
+* Beginners at WordPress or security try to practice WordPress Security without any need to install themselves.
+* WordPress administrators experience vulnerabilities in order to protect them websites.
+* Both security researchers and WordPress administrators discuss security issues and learning from each other.
+
+
 
 ## Install
 
 Install Docker
 
-Change host
+Change hostname to your environment due to WordPress.
 
 Example
 
@@ -20,4 +31,8 @@ $ cd step1
 $ docker-compose up -d
 ```
 
-enjoy
+enjoy!
+
+## Future Works 
+
+English Version...
