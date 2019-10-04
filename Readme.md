@@ -10,7 +10,7 @@ It has the following purposes.
 * WordPress administrators experience vulnerabilities in order to protect them websites.
 * Both security researchers and WordPress administrators discuss security issues and learning from each other.
 
-
+Please enjoy it with the score application. https://github.com/ym405nm/hackl33t_score
 
 ## Install
 
