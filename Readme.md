@@ -1,4 +1,4 @@
-Hackleet fighters II For WordPress
+Hackl33t fighters II For WordPress
 ====================================
 
 This is a CTF-like security challenges kit which is dedicated to WordPress.
